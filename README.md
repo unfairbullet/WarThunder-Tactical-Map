@@ -6,7 +6,7 @@ WarThunder-Tactical reads the game's official local telemetry server (`http://lo
 
 No memory reading, no packet sniffing, no overlays injected into the game. It only makes HTTP requests to the game's own localhost server.
 
-Repo: https://github.com/unfairbullet/WarThunder-Tactical-Map/tree/main — bug reports and suggestions welcome via [issues](https://github.com/unfairbullet/WarThunder-Tactical-Map/issues).
+Repo: https://github.com/unfairbullet/WarThunder-Tactical-Map/tree/main - bug reports and suggestions welcome via [issues](https://github.com/unfairbullet/WarThunder-Tactical-Map/issues).
 
 Licensed under the Apache License 2.0 — see [LICENSE](LICENSE). Free to use and modify; keep the license notice when redistributing.
 
@@ -22,9 +22,9 @@ Windows 10/11 only. Requires the WebView2 runtime, which ships with Windows 10/1
 
 You need:
 
-- **Node.js 18+** (includes npm) — https://nodejs.org/
-- **Rust (stable)** via rustup — https://rustup.rs/
-- **Visual Studio Build Tools** with the "Desktop development with C++" workload (for compiling on Windows) — https://visualstudio.microsoft.com/downloads/
+- **Node.js 18+** (includes npm) - https://nodejs.org/
+- **Rust (stable)** via rustup - https://rustup.rs/
+- **Visual Studio Build Tools** with the "Desktop development with C++" workload (for compiling on Windows) - https://visualstudio.microsoft.com/downloads/
 - **WebView2 runtime** (preinstalled on Windows 10/11) — https://developer.microsoft.com/microsoft-edge/webview2/
 
 Steps:
