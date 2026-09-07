@@ -2,7 +2,7 @@
 
 The localhost telemetry site looks like hot dog water if you actually want to use it, this aims to make it at least somewhat visually appealing.
 
-A desktop tactical map + telemetry viewer for War Thunder. It reads the game's official local telemetry server (`http://localhost:8111`, the same data behind the in-game browser map page) and shows it in a resizable window. Everything that can be pulled is pulled, live map with unit positions and headings, per-unit trail history, your vehicle's telemetry, game chat, and a persistent kill feed.
+WarThunder-Tactical reads the game's official local telemetry server (`http://localhost:8111`, the same data behind the in-game browser map page) and shows it in a resizable window. Everything that can be pulled is pulled, live map with unit positions and headings, per-unit trail history, your vehicle's telemetry, game chat, and a persistent kill feed.
 
 No memory reading, no packet sniffing, no overlays injected into the game. It only makes HTTP requests to the game's own localhost server.
 
