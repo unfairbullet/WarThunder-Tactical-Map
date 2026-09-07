@@ -25,7 +25,7 @@ You need:
 - **Node.js 18+** (includes npm) - https://nodejs.org/
 - **Rust (stable)** via rustup - https://rustup.rs/
 - **Visual Studio Build Tools** with the "Desktop development with C++" workload (for compiling on Windows) - https://visualstudio.microsoft.com/downloads/
-- **WebView2 runtime** (preinstalled on Windows 10/11) — https://developer.microsoft.com/microsoft-edge/webview2/
+- **WebView2 runtime** (preinstalled on Windows 10/11) - https://developer.microsoft.com/microsoft-edge/webview2/
 
 Steps:
 
