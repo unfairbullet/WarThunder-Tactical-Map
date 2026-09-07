@@ -1,0 +1,30 @@
+:root {
+  --bg: #080a0f;
+  --bg-elev: #0f131a;
+  --bg-card: rgba(255, 255, 255, 0.04);
+  --border: rgba(255, 255, 255, 0.07);
+  --text: #e6edf3;
+  --muted: rgba(230, 237, 243, 0.55);
+  --accent: #17FFFF;
+  --accent-2: #faC81E;
+  --red: #fa0C00;
+  --green: #39D921;
+  --blue: #185AFF;
+  --radius: 12px;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; background: var(--bg); }
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 999px; }
+::-webkit-scrollbar-track { background: transparent; }
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
